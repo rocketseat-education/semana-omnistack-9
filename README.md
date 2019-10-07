@@ -29,7 +29,7 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Liceça</a>
+  <a href="#memo-licença">Licença</a>
 </p>
 
 <br>
@@ -44,7 +44,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
-- [React-Native](https://facebook.github.io/react-native/)
+- [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
 ## 💻 Projeto
@@ -60,9 +60,9 @@ Para abrir o arquivo no formato `.sketch` em qualquer sistema operacional utiliz
 ## 🤔 Como contribuir
 
 - Faça um fork desse repositório;
-- Cria a branch com sua feature: git checkout -b minha-feature;
-- Faça commit das suas alterações: git commit -m 'feat: Minha nova feature';
-- Faça push para a sua branch: git push origin minha-feature.
+- Cria a branch com sua feature: `git checkout -b minha-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
