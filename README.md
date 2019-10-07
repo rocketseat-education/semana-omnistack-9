@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  Code and coffee ☕
+  ☕ Code and coffee
 </h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rocketseat/semana-omnistack-9.svg">
@@ -26,10 +26,13 @@
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Liceça</a>
 </p>
+
+<br>
 
 <p align="center">
   <img alt="Frontend" src=".github/aircnc.png" width="100%">
@@ -48,9 +51,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Aircnc é um projeto que visa conectar empresas que querem abrir spots e desenvolvedores que procuram um lugar para trocar ideias com devs, conhecer a empresa e trabalhar lá por um período.
 
-Se quiser ver o projeto, em formato `.sketch`, você pode baixá-lo nesse [link](https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/semana-omnistack/aircnc.sketch).
+## 🔖 Layout
 
-## 🤔 Como contribuir?
+Você pode baixar o layout do projeto no formato `.sketch` através [desse link](https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/semana-omnistack/aircnc.sketch).
+
+Para abrir o arquivo no formato `.sketch` em qualquer sistema operacional utilize a ferramenta [Zeplin](https://zeplin.io).
+
+## 🤔 Como contribuir
 
 - Faça um fork desse repositório;
 - Cria a branch com sua feature: git checkout -b minha-feature;
