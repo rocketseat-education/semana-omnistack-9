@@ -8,11 +8,8 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rocketseat/semana-omnistack-9.svg">
 
-  <a href="https://www.codacy.com/app/Rocketseat/semana-omnistack-9">
-    <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/04db4b43120b4d05b9b39c9d2da97300.svg">
-  </a>
-
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Rocketseat/semana-omnistack-9.svg">
+  
   <a href="https://github.com/Rocketseat/semana-omnistack-9/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Rocketseat/semana-omnistack-9.svg">
   </a>
@@ -60,7 +57,7 @@ Para abrir o arquivo no formato `.sketch` em qualquer sistema operacional utiliz
 ## 🤔 Como contribuir
 
 - Faça um fork desse repositório;
-- Cria a branch com sua feature: `git checkout -b minha-feature`;
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
 - Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
 - Faça push para a sua branch: `git push origin minha-feature`.
 
